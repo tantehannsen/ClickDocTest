@@ -1,4 +1,0 @@
-# Ignore downloaded node modules
-./node_modules
-# Ignore package-lock.json
-*-lock.json
